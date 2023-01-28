@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    </head>
+    <link rel="stylesheet" href="style.css">
+<body>
+    <h1>Here are the top 25 highest grossing movies of all time</h1>
+    <table border="1">
+    <tr>
+        <th>Position</th>
+        <th>Title</th>
+        <th>Year</th>
+        <th>Total Box-Office Earnings</th>
+        </tr>
+        <tr>
+        <td>1</td>
+            <td>Avatar</td>
+            <td>2009</td>
+            <td>$2,922,917,914</td>
+        </tr>
+         <tr>
+        <td>2</td>
+            <td>Avengers: Endgame</td>
+            <td>2019</td>
+            <td>$2,797,501,328</td>
+        </tr>
+         <tr>
+        <td>3</td>
+            <td>Titanic</td>
+            <td>1999</td>
+            <td>$2,194,690,964</td>
+        </tr>
+         <tr>
+        <td>4</td>
+            <td>Avatar: The Way of water</td>
+            <td>2022</td>
+            <td>$2,074,750,771</td>
+        </tr>
+       <tr>
+        <td>5</td>
+            <td>Star Wars: Episode VII - The Force Awakens</td>
+            <td>2015</td>
+            <td>$2,071,310,218</td>
+        </tr>
+        <tr>
+        <td>6</td>
+            <td>Avengers: Infinty War</td>
+            <td>2018</td>
+            <td>$2,052,415,039</td>
+        </tr>
+         <tr>
+        <td>7</td>
+            <td>Spider-Man: No Way Home</td>
+            <td>2021</td>
+            <td>$1,921,847,111</td>
+        </tr>
+         <tr>
+        <td>8</td>
+            <td>Jurassic World</td>
+            <td>2015</td>
+            <td>$1,671,537,444</td>
+        </tr>
+         <tr>
+        <td>9</td>
+            <td>The Lion King</td>
+            <td>2019</td>
+            <td>$1,663,075,401</td>
+        </tr>
+         <tr>
+        <td>10</td>
+            <td>The Avengers</td>
+            <td>2012</td>
+            <td>$1,520,538,536</td>
+        </tr>
+         <tr>
+        <td>11</td>
+            <td>Furious 7</td>
+            <td>2015</td>
+            <td>$1,515,341,399</td>
+        </tr>
+         <tr>
+        <td>12</td>
+            <td>Top Gun: Maverick</td>
+            <td>2022</td>
+            <td>$1,488,732,821</td>
+        </tr>
+         <tr>
+        <td>13</td>
+            <td>Frozen II</td>
+            <td>2019</td>
+            <td>$1,453,683,476</td>
+        </tr>
+         <tr>
+        <td>14</td>
+            <td>Avengers: Age of Ultron</td>
+            <td>2015</td>
+            <td>$1,405,018,048</td>
+        </tr>
+         <tr>
+        <td>15</td>
+            <td>Black Panther</td>
+            <td>2018</td>
+            <td>$1,349,926,083</td>
+        </tr>
+         <tr>
+        <td>16</td>
+            <td>Harry Potter and the Deathly Hallows: Part 2</td>
+            <td>2011</td>
+            <td>$1,342,359,942</td>
+        </tr>
+         <tr>
+        <td>17</td>
+            <td>Star Wars: Episode VIII - The Last Jedi</td>
+            <td>2017</td>
+            <td>$1,334,407,706</td>
+        </tr>
+         <tr>
+        <td>18</td>
+            <td>Jurassic World: Fallen Kingdom</td>
+            <td>2018</td>
+            <td>$1,310,466,296</td>
+        </tr>
+         <tr>
+        <td>19</td>
+            <td>Frozen</td>
+            <td>2013</td>
+            <td>$1,284,540,518</td>
+        </tr>
+            <tr>
+        <td>20</td>
+            <td>Beauty and the Beast</td>
+            <td>2017</td>
+            <td>$1,266,115,964</td>
+        </tr>
+            <tr>
+        <td>21</td>
+            <td>Incredibles 2</td>
+            <td>2018</td>
+            <td>$1,243,225,667</td>
+        </tr>
+            <tr>
+        <td>22</td>
+            <td>The Fate of the Furious</td>
+            <td>2017</td>
+            <td>$1,236,005,118</td>
+        </tr>
+            <tr>
+        <td>23</td>
+            <td>Iron Man 3</td>
+            <td>2013</td>
+            <td>$1,215,577,205</td>
+        </tr>
+            <tr>
+        <td>24</td>
+            <td>Minions</td>
+            <td>2015</td>
+            <td>$1,159,444,662</td>
+        </tr>
+            <tr>
+        <td>25</td>
+            <td>Captain America: Civil War</td>
+            <td>2016</td>
+            <td>$1,155,046,416</td>
+        </tr>
+    </table>
+    </body>
+</html>
